@@ -40,7 +40,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "klechshev.maksim@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
   github: koshakOK
 #   twitter: daattali
@@ -116,9 +116,9 @@ footer-hover-col: "#0085A1"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/assets/img/bgimage.png"
-footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.img"
+footer-img: "/assets/img/bgimage.img"
+page-img: "/assets/img/bgimage.img"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 mobile-theme-col: "#0085A1"
